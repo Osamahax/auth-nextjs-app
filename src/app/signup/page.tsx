@@ -1,3 +1,7 @@
+"use client"
+import Link from "next/link"
+import { useRouter } from "next/navigation"
+
 const SignupPage =()=>{
     return(
         <div className="flex">
